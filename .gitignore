@@ -1,0 +1,5 @@
+*.swp
+*.DSYM
+*.out
+*.gch
+*.ppm
